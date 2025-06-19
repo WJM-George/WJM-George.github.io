@@ -22,7 +22,7 @@ repository               : "https://github.com/WJM-George/WJM-George.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "personal_pic.jpg"
+  avatar           : "sandiego.jpg"
   name             : "KamMan Wu"
   pronouns         : # example: "she/her"  
   bio              : "Yr3 DSCT student at HKUST"
