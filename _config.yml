@@ -13,7 +13,7 @@ title                    : "KamMan Wu"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://wjm-george.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://wjm-george.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/WJM-George/WJM-George.github.io"
 
@@ -25,7 +25,7 @@ author:
   avatar           : "sandiego.jpg" ###
   name             : "KamMan Wu"
   pronouns         : # example: "she/her"  
-  bio              : "Yr3 DSCT student at HKUST"
+  bio              : "Yr4 DSCT student at HKUST"
   location         : "HongKong"
   employer         : "The HongKong University of Science and Techonology"
   uri              : # URL
