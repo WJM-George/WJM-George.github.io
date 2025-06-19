@@ -14,7 +14,7 @@ Education
 * B.S. in HongKong, The Hong Kong University of Science and Technology, 2022-2026
 * B.E. in Los Angles, University of Southern California, 2024
 
-Work experience
+Research experience
 ======
 * 2024 spring - Now: Research Assistant
   * The Hong Kong University of Science and Technology
