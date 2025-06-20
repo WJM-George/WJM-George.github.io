@@ -13,9 +13,12 @@ Research Interest
 ======
 My research interests center on Generative AI and 3D Vision, with a particular focus on multimedia applications.  I'm also exploring the integration of different generative techniques with 3D scene understanding, aiming to enhance the coherence and realism of generated content across different media formats.
 
-Getting started
+Personal Interest
 ======
-1. 
+*
+*
+*
+*
 
 Site-wide configuration
 ------
