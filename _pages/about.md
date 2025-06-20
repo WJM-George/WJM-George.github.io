@@ -19,6 +19,13 @@ Personal Interest
 * **Gaming**: Active DOTA2 player, CN DOTA2 Never dies!
 * **Rock Music**: Dedicated fan of rock music, particularly drawn to the progressive sounds of Pink Floyd, the emotional depth of 许巍 (Xu Wei), and the powerful energy of Guns N' Roses
 
+Education
+======
+* BSc in Data Science and Technology
+  *The Hong Kong University of Science and Technology (HKUST), 2022 - Now
+* Exchange Student (BEng in Computer Science)
+  *University of Southern California, 2024Fall
+
 Site-wide configuration
 ------
 The 

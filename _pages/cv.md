@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in HongKong, The Hong Kong University of Science and Technology, 2022-2026
+  * S.S. Chern Class Member
 * B.E. in Los Angles, University of Southern California, 2024
 
 Research experience
