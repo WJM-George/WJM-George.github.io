@@ -12,9 +12,9 @@ lír hó! I am a yr4 undergraduate student major in Data Science and Technology 
 Education
 ======
 * BSc in Data Science and Technology
-  *The Hong Kong University of Science and Technology (HKUST), 2022 - Now
+  **The Hong Kong University of Science and Technology (HKUST)** 2022 - Now
 * Exchange Student (BEng in Computer Science)
-  *University of Southern California, 2024Fall
+  **University of Southern California** 2024 Fall
 
 Research Interest
 ======
