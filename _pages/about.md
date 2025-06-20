@@ -9,16 +9,6 @@ redirect_from:
 
 lír hó! I am a yr4 undergraduate student major in Data Science and Technology at The Hong Kong University of Science and Technology(HKUST), expecting to graduate in June 2026. 
 
-Research Interest
-======
-My research interests center on Generative AI and 3D Vision, with a particular focus on multimedia applications.  I'm also exploring the integration of different generative techniques with 3D scene understanding, aiming to enhance the coherence and realism of generated content across different media formats.
-
-Personal Interest
-======
-* **Sports Enthusiast**: Passionate supporter of [FC Barcelona](https://www.fcbarcelona.com/en/) and the [Los Angeles Lakers](https://www.nba.com/lakers/los-lakers-homepage), following both teams' matches and staying updated with their latest news and achievements
-* **Gaming**: Active DOTA2 player, CN DOTA2 Never dies!
-* **Rock Music**: Dedicated fan of rock music, particularly drawn to the progressive sounds of Pink Floyd, the emotional depth of 许巍 (Xu Wei), and the powerful energy of Guns N' Roses
-
 Education
 ======
 * BSc in Data Science and Technology
@@ -26,25 +16,16 @@ Education
 * Exchange Student (BEng in Computer Science)
   *University of Southern California, 2024Fall
 
-Site-wide configuration
-------
-The 
+Research Interest
+======
+My research interests center on Generative AI and 3D Vision, with a particular focus on multimedia applications.  I'm also exploring the integration of different generative techniques with 3D scene understanding, aiming to enhance the coherence and realism of generated content across different media formats.
 
-Create content & metadata
-------
-For 
-
-**Markdown generator**
+Publication
+======
 
 
-
-How to edit your site's GitHub repository
-------
-Many 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Personal Interest
+======
+* **Sports Enthusiast**: Passionate supporter of [FC Barcelona](https://www.fcbarcelona.com/en/) and the [Los Angeles Lakers](https://www.nba.com/lakers/los-lakers-homepage), following both teams' matches and staying updated with their latest news and achievements
+* **Gaming**: Active DOTA2 player, CN DOTA2 Never dies!
+* **Rock Music**: Dedicated fan of rock music, particularly drawn to the progressive sounds of Pink Floyd, the emotional depth of 许巍 (Xu Wei), and the powerful energy of Guns N' Roses
