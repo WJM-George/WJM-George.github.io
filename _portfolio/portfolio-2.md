@@ -26,6 +26,7 @@ Scene Processing and Output
 
 Sample Renders
 ======
+
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin: 20px 0;">
     <div style="text-align: center;">
         <img src="/images/001.jpg" alt="Toy with Reflection" style="max-width: 300px; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
@@ -52,4 +53,4 @@ Technologies Used
 - **C++**: Core ray tracing algorithms and mathematical computations
 - **Mathematics**: Vector operations, geometric intersections, and lighting calculations
 - **Image Processing**: JPEG export and high-quality rendering pipeline
-- **Optimization**: Performance tuning for complex scene rendering
+- **Optimization**: Performance tuning for complex scene rendering 

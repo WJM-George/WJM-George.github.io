@@ -34,4 +34,4 @@ Technologies Used
 ======
 - **C++**: Core game engine and systems programming
 - **SFML Library**: Graphics rendering, audio processing, and input handling
-- **Mathematics**: Vector calculations, collision detection algorithms, and 3D transformations
+- **Mathematics**: Vector calculations, collision detection algorithms, and 3D transformations 
