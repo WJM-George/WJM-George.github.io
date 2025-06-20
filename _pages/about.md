@@ -15,10 +15,9 @@ My research interests center on Generative AI and 3D Vision, with a particular f
 
 Personal Interest
 ======
-*
-*
-*
-*
+* **Sports Enthusiast**: Passionate supporter of [FC Barcelona](https://www.fcbarcelona.com/en/) and the [Los Angeles Lakers](https://www.nba.com/lakers/los-lakers-homepage), following both teams' matches and staying updated with their latest news and achievements
+* **Gaming**: Active DOTA2 player, CN DOTA2 Never dies!
+* **Rock Music**: Dedicated fan of rock music, particularly drawn to the progressive sounds of Pink Floyd, the emotional depth of 许巍 (Xu Wei), and the powerful energy of Guns N' Roses
 
 Site-wide configuration
 ------
