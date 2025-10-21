@@ -3,7 +3,7 @@ title: "VAINPAINT: ZERO-SHOT VIDEO-AUDIO INPAINTING FRAMEWORK WITH LLMS-DRIVEN M
 collection: publications
 category: conferences
 permalink: /publication/2025-09-17-VAInpaint
-excerpt: 'This paper is about fixing template issue #693.'
+excerpt: ''
 date: 2025-09-17
 venue: 'ICASSP 2026 (Under Review) '
 paperurl: 'http://academicpages.github.io/files/VAInpaint.pdf'
