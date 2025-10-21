@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2025-09-17-VAInpaint
 excerpt: 'This paper is about fixing template issue #693.'
 date: 2025-09-17
-venue: 'ICASSP 2026 (Under Review)'
+venue: 'ICASSP 2026 (Under Review) '
 paperurl: 'http://academicpages.github.io/files/VAInpaint.pdf'
 citation: 'Wu, Kam Man, Zeyue Tian, Liya Ji, and Qifeng Chen. (2025). &quot;VAInpaint: Zero-Shot Video-Audio inpainting framework with LLMs-driven Module.&quot; <i>arXiv preprint arXiv:2509.17022</i>.'
 ---
