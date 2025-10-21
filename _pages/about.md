@@ -22,7 +22,14 @@ My research interests center on Generative AI and 3D Vision, with a particular f
 
 Publication
 ======
+I have been actively involved in research on generative AI and multimedia processing. My recent work focuses on video-audio inpainting techniques using large language models, Video reconstruction utilizing VAE based models and 3D indoor Scene reconstruction.
 
+**Featured Publication:**
+* **VAInpaint: Zero-Shot Video-Audio inpainting framework with LLMs-driven Module** (2025)  
+  *Under review at ICASSP 2026*  
+  [PDF](http://academicpages.github.io/files/VAInpaint.pdf) | [arXiv:2509.17022](https://arxiv.org/abs/2509.17022)
+
+For a complete list of publications, visit my [Publications page](/publications/).
 
 Personal Interest
 ======

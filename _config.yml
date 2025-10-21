@@ -33,8 +33,8 @@ author:
   linkedin         : "https://www.linkedin.com/in/kam-man-wu-313782290/"
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  arxiv            : # URL - Update with the correct link to your profile""
+  googlescholar    : "https://scholar.google.com/citations?user=TDed1qYAAAAJ&hl=en"
   impactstory      : # URL
   orcid            : #"http://orcid.org/yourorcidurl"
   semantic         : # URL
@@ -78,10 +78,10 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
+#  books:
+#    title: 'Books'
+#  manuscripts:
+#    title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
 
